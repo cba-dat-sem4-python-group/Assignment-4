@@ -1,6 +1,8 @@
 # Assignment 4: Pandas
 This assignment is about data processing and plotting.
 
+Link to mybinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cba-dat-sem4-python-group/Assignment-4/master?filepath=Assignment-4.ipynb)
+
 ## How to hand in
 The assignment is expected to be published on GitHub, but the actual hand-in is on peergrade and should contain only a link to a MyBinder. The assignment should fit in a single Jupyter Notebook.
 
