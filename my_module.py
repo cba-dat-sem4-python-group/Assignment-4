@@ -25,7 +25,7 @@ def get_dataframe_from_url(url):
     # unpacking zip
     zipfile.ZipFile(fname, 'r').extractall('.')
     # finding the file
-    local_file = glob('./*API*.csv')[0]
+    local_file = glob('./API*.csv')[0]
     # reads file, skips first 4 rows
     df = pd.read_csv(local_file,skiprows=4)
     return df
