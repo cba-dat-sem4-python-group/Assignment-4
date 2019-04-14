@@ -12,7 +12,7 @@ ipywidgets==7.4.2
 folium==0.7.0
 jdcal==1.4
 jedi==0.13.2
-Jinja2==2.10
+Jinja2==2.10.1
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.4
